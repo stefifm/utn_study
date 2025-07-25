@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
+                "file": "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición de modelos en la nube"
+              "title": "Unidad 5 - Parte 2 - Derivadas-Demostraciones"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "156c78a38c51b10e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
+                "file": "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Definición de modelos en la nube"
+              "title": "Enlaces entrantes de Unidad 5 - Parte 2 - Derivadas-Demostraciones"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
+                "file": "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Definición de modelos en la nube"
+              "title": "Enlaces salientes de Unidad 5 - Parte 2 - Derivadas-Demostraciones"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
+                "file": "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Definición de modelos en la nube"
+              "title": "Esquema de Unidad 5 - Parte 2 - Derivadas-Demostraciones"
             }
           },
           {
@@ -183,9 +182,12 @@
   },
   "active": "0977921b5bebec9c",
   "lastOpenFiles": [
+    "Notion/Análisis Matemático/Teórico/Teórico.md",
+    "Notion/Análisis Matemático/Teórico/Unidad 1 - Intervalos-Entornos/Unidad 1 - Intervalos-Entornos.md",
+    "Notion/Algebra y Geometría Analítica/Ejercicios Parcial.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción del modelo de responsabilidad compartida.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción de la informática en la nube.md",
-    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Aspectos básicos de Microsoft Azure/Aspectos básicos de Microsoft Azure- Descripción de la arquitectura y los servicios de Azure.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Qué es la informática en la nube.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción del modelo basado en el consumo.md",
@@ -216,9 +218,6 @@
     "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Aspectos básicos de Microsoft Azure/Describir los componentes arquitectónicos principales de Azure/Qué es Microsoft Azure.md",
     "Notion/Análisis Matemático/Práctico/Guía Parcial 1/Guía Parcial 1.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 1 - Derivadas.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 4 - Continuidad-Discontinuidad/Unidad 4 - Continuidad-Discontinuidad.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 1 - Límites.md",
     "Horarios_Clase_UTN_2025_1b51a539fce38047bc5de8df3c607dad.pdf",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 9 - Concavidad-Convexidad",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 8 - Derivadas en el Análisis de funciones",
