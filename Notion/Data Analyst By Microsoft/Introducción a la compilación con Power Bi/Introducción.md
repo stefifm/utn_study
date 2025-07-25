@@ -1,0 +1,5 @@
+**Microsoft Power BI** es una solución de creación de informes completa que ofrece preparación de datos, visualización de datos, distribución y administración a través de herramientas de desarrollo y una plataforma en línea.
+
+Power BI puede escalar desde informes simples mediante un único origen de datos a informes que requieren modelos de datos complejos y temas coherentes. Use Power BI para crear informes visualmente impresionantes e interactivos que sirvan como motor de análisis y toma de decisiones para proyectos de grupo, divisiones u organizaciones enteras.
+
+Power BI es una herramienta esencial para los analistas de datos y su organización; sin embargo, todos los profesionales de datos sacan provecho de comprender cómo funciona Power BI para explorar y presentar información de datos dentro de las organizaciones.
