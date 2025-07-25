@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 790.5128364562988
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "156c78a38c51b10e",
@@ -180,7 +181,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b81f13ca2fcc977",
+  "active": "0977921b5bebec9c",
   "lastOpenFiles": [
     "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción del modelo de responsabilidad compartida.md",
     "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción de la informática en la nube.md",
