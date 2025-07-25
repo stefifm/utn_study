@@ -11,14 +11,10 @@
             "id": "0977921b5bebec9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Espacios Vectoriales.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Espacios Vectoriales"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Espacios Vectoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Espacios Vectoriales"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Espacios Vectoriales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Espacios Vectoriales"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Espacios Vectoriales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Espacios Vectoriales"
+              "title": "Esquema"
             }
           },
           {
@@ -176,10 +169,11 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0977921b5bebec9c",
+  "active": "4a949dc68beee4f0",
   "lastOpenFiles": [
     "Análisis Matemático/Integrales.md",
     "Algebra/Espacios Vectoriales.md",
