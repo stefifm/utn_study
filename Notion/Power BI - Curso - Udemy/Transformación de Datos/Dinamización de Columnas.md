@@ -1,0 +1,1 @@
+- Nos ayuda a convertir valores en atributos o viceversa

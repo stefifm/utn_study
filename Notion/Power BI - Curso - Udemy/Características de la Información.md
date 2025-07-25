@@ -1,0 +1,16 @@
+- Exacta y objetiva
+    - Reflejar de forma clara lo que se pretende representar sin dar lugar a ambigüedades
+- Válida
+    - Obtenerse de una fuente confiable
+- Continua
+    - Almacenarse de forma consistente
+- Completa
+    - No debe de carecer de detalles o características que pudiesen comprometer su valor
+        - Falta de símbolos monetarios
+        - Falta de encabezados o títulos
+        - Datos anómalos o faltantes
+- Comparable
+    - Debe estar presentada y estructurada de forma que se pueda utilizar como referencia contra información similar
+- Oportuna
+    - Generarse a tiempo para tomar decisiones
+    - Si la información de cosméticos ACME que estamos revisando correspondiera al año 2010, ¿Qué tan útil nos sería para tomar decisiones actuales?

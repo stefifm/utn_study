@@ -11,10 +11,14 @@
             "id": "0977921b5bebec9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Definición de modelos en la nube"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 790.5128364562988
   },
   "right": {
     "id": "156c78a38c51b10e",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Definición de modelos en la nube"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Definición de modelos en la nube"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Definición de modelos en la nube"
             }
           },
           {
@@ -173,8 +180,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4a949dc68beee4f0",
+  "active": "1b81f13ca2fcc977",
   "lastOpenFiles": [
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción del modelo de responsabilidad compartida.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción de la informática en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Definición de modelos en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Aspectos básicos de Microsoft Azure/Aspectos básicos de Microsoft Azure- Descripción de la arquitectura y los servicios de Azure.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Qué es la informática en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de la informática en la nube/Descripción del modelo basado en el consumo.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de las ventajas de usar servicios en la nube/Alta disponibilidad y la escalabilidad en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de las ventajas de usar servicios en la nube/Ventajas de la capacidad de administración en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de las ventajas de usar servicios en la nube/Ventajas de la confiabilidad y la previsibilidad en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de las ventajas de usar servicios en la nube/Ventajas de la seguridad y la gobernanza en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Descripción de las ventajas de usar servicios en la nube/Ventajas de usar servicios en la nube.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Azure - Curso Básico - Microsoft Learn.md",
     "image 11 3.png",
     "image 10 5.png",
     "image 9 7.png",
@@ -185,7 +204,6 @@
     "image 4 10.png",
     "image 3 11.png",
     "image 2 11.png",
-    "image 1 14.png",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 9 - Concavidad-Convexidad/Unidad 5 - Parte 9 - Concavidad-Convexidad.md",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 8 - Derivadas en el Análisis de funciones/Unidad 5 - Parte 8 - Derivadas en el Análisis de funciones.md",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 7 - Teoremas/Unidad 5 - Parte 7 - Teoremas.md",
@@ -195,22 +213,11 @@
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
     "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 3 - Infinitésimos-Notables/Unidad 3 - Parte 3 - Infinitésimos-Notables.md",
     "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas.md",
-    "Notion/Azure - Curso Básico - Microsoft Learn/Aspectos básicos de Microsoft Azure- Descripción de la arquitectura y los servicios de Azure/Describir los componentes arquitectónicos principales de Azure/Qué es Microsoft Azure.md",
+    "Notion/Azure - Curso Básico - Microsoft Learn/Aspectos básicos de Microsoft Azure/Describir los componentes arquitectónicos principales de Azure/Qué es Microsoft Azure.md",
     "Notion/Análisis Matemático/Práctico/Guía Parcial 1/Guía Parcial 1.md",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 1 - Derivadas.md",
     "Notion/Análisis Matemático/Teórico/Unidad 4 - Continuidad-Discontinuidad/Unidad 4 - Continuidad-Discontinuidad.md",
     "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 1 - Límites.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 2 - Funciones/Unidad 2 - Funciones.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 1 - Intervalos-Entornos/Unidad 1 - Intervalos-Entornos.md",
-    "Notion/Power BI - Curso - Udemy/Formulación DAX/Función DAX División.md",
-    "Notion/Power BI - Curso - Udemy/Formulación DAX/Función DAX Conteo.md",
-    "Notion/Power BI - Curso - Udemy/Formulación DAX/Formato de DAX/Formato de DAX.md",
-    "Notion/Power BI - Curso - Udemy/Formulación DAX/Introducción a la Formulación DAX y Suma/Introducción a la Formulación DAX y Suma.md",
-    "Notion/Power BI - Curso - Udemy/Transformación de Datos/Consolidar Consultas (Archivos Separados de Excel).md",
-    "Notion/Power BI - Curso - Udemy/Transformación de Datos/Agrupación de Datos.md",
-    "Notion/Power BI - Curso - Udemy/Transformación de Datos/Dinamización de Columnas.md",
-    "Notion/Data Analyst By Microsoft/Crear informes interactivos con Copilot para Power BI/Usar Copilot para Power BI para modelar los datos.md",
-    "Notion/Data Analyst By Microsoft/Crear informes interactivos con Copilot para Power BI/Crear informes con Copilot para Power BI.md",
     "Horarios_Clase_UTN_2025_1b51a539fce38047bc5de8df3c607dad.pdf",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 9 - Concavidad-Convexidad",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 8 - Derivadas en el Análisis de funciones",

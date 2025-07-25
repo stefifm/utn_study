@@ -1,0 +1,1 @@
+[[Describir los componentes arquitectónicos principales de Azure]]

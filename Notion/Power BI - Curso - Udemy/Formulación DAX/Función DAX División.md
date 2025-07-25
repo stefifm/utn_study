@@ -1,0 +1,2 @@
+- Se usa para calcular promedios de forma manual
+- Otra forma de calcular promedios es usando la función AVG()
