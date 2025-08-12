@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
+                "file": "Notion/Análisis Matemático/Práctico/Guía Parcial 1/Guía Parcial 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidad 5 - Parte 2 - Derivadas-Demostraciones"
+              "title": "Guía Parcial 2"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -182,6 +183,12 @@
   },
   "active": "0977921b5bebec9c",
   "lastOpenFiles": [
+    "Notion/Análisis Matemático/Práctico/Guía Parcial 1/Guía Parcial 1.md",
+    "Notion/Análisis Matemático/Práctico/Guía Parcial 1/Guía Parcial 2.md",
+    "Notion/Algebra y Geometría Analítica/Espacio vectoriales.md",
+    "Notion/Análisis Matemático/Práctico/Guía Parcial 2/Guía Parcial Práctico 2.md",
+    "Notion/Análisis Matemático/Práctico/Guía Parcial 2",
+    "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
     "Notion/Análisis Matemático/Teórico/Teórico.md",
     "Notion/Análisis Matemático/Teórico/Unidad 1 - Intervalos-Entornos/Unidad 1 - Intervalos-Entornos.md",
     "Notion/Algebra y Geometría Analítica/Ejercicios Parcial.md",
@@ -213,11 +220,6 @@
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 6 - Continuidad-Derivabilidad/Unidad 5 - Parte 6 - Continuidad-Derivabilidad.md",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 4 - Aplicaciones y Diferencial/Unidad 5 - Parte 4 - Aplicaciones y Diferencial.md",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 3 - Derivación Logarítmica-Método de la cadena/Unidad 5 - Parte 3 - Derivación Logarítmica-Método de la cadena.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones/Unidad 5 - Parte 2 - Derivadas-Demostraciones.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 3 - Infinitésimos-Notables/Unidad 3 - Parte 3 - Infinitésimos-Notables.md",
-    "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas.md",
-    "Notion/Azure - Curso Básico - Microsoft Learn/Aspectos básicos de Microsoft Azure/Describir los componentes arquitectónicos principales de Azure/Qué es Microsoft Azure.md",
-    "Notion/Análisis Matemático/Práctico/Guía Parcial 1/Guía Parcial 1.md",
     "Horarios_Clase_UTN_2025_1b51a539fce38047bc5de8df3c607dad.pdf",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 9 - Concavidad-Convexidad",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 8 - Derivadas en el Análisis de funciones",
@@ -226,7 +228,6 @@
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 4 - Aplicaciones y Diferencial",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 3 - Derivación Logarítmica-Método de la cadena",
     "Notion/Análisis Matemático/Teórico/Unidad 5 - Parte 1 - Derivadas/Unidad 5 - Parte 2 - Derivadas-Demostraciones",
-    "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 3 - Infinitésimos-Notables",
-    "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 2 - Límites-Cálculo-Asíntotas"
+    "Notion/Análisis Matemático/Teórico/Unidad 3 - Parte 1 - Límites/Unidad 3 - Parte 3 - Infinitésimos-Notables"
   ]
 }
